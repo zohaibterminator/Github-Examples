@@ -2,7 +2,7 @@ name: Schedule Workflows with GH Actions
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/3 * * * *'
 
 jobs:
   hello_world:
